@@ -1,14 +1,23 @@
 # Meu nome é Cleyton!:grinning:
 <a href="https://www.linkedin.com/in/CleytonSilva7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+       
 <br>
-<li>Eu tenho 18 anos</li> 
-<li>Minha área de interesse é T.I (mais focado em programação Back-end)</li>
-<li>Que tal dar uma olhada em meus Conhecimentos⁉</li>
-Meus conhecimentos
-<li>HTML5 e CSS3</li>
-<li>Informática básica (Ensino Técnico)</li>
-<li>JavaScript</li>
-<br>
+<div style="display:flex">
+ 
+  <div align="left">
+    <li>Eu tenho 18 anos</li> 
+    <li>Minha área de interesse é T.I (mais focado em programação Back-end)</li>
+    <li>Que tal dar uma olhada em meus Conhecimentos⁉</li>
+    Meus conhecimentos
+    <li>HTML5 e CSS3</li>
+    <li>Informática básica (Ensino Técnico)</li>
+    <li>JavaScript</li>
+    <br>
+  </div>
+     <div align="right">
+      <img width="250em" src="https://raw.githubusercontent.com/JoneBulande/JoneBulande/master/lain.gif"/>
+     </div> 
+</div>
 
 
 <div>
