@@ -18,7 +18,7 @@
         <img width="240em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleytonSilva7&layout=compact&langs_count=6&theme=transparent&hide_border=true"/>
     </a>    
     <div align="center">
-      <img width="500em" src="https://raw.githubusercontent.com/JoneBulande/JoneBulande/master/lain.gif"/>
+      <img width="500em" src="https://github.com/CleytonSilva7/CleytonSilva7/assets/81132406/b0123663-5eb7-4cdd-b2ce-352df000aa6e"/>
     </div>    
     <a href="https://github.com/CleytonSilva7" align="center">
         <img src="https://streak-stats.demolab.com?user=CleytonSilva7&theme=transparent&hide_border=true&card_width=400&hide_total_contributions=true">
